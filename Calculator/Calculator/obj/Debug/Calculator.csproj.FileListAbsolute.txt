@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\bin\Debug\A3EricadeSousaMenezesP2.exe.config
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\bin\Debug\A3EricadeSousaMenezesP2.exe
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\bin\Debug\A3EricadeSousaMenezesP2.pdb
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\obj\Debug\A3EricadeSousaMenezesP2.exe
+C:\Users\pc\Desktop\Calculator\A3EricadeSousaMenezesP2\obj\Debug\A3EricadeSousaMenezesP2.pdb
+C:\Users\pc\Desktop\Calculator\Calculator\bin\Debug\A3EricadeSousaMenezesP2.exe.config
+C:\Users\pc\Desktop\Calculator\Calculator\bin\Debug\A3EricadeSousaMenezesP2.exe
+C:\Users\pc\Desktop\Calculator\Calculator\bin\Debug\A3EricadeSousaMenezesP2.pdb
+C:\Users\pc\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Calculator\Calculator\obj\Debug\A3EricadeSousaMenezesP2.exe
+C:\Users\pc\Desktop\Calculator\Calculator\obj\Debug\A3EricadeSousaMenezesP2.pdb
