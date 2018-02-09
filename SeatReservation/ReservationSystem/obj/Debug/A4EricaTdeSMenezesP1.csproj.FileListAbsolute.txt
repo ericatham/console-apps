@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.exe.config
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.exe
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.pdb
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.exe
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.pdb
+C:\Users\pc\Documents\Conestoga Assigments\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.csprojResolveAssemblyReference.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.exe.config
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.exe
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\bin\Debug\A4EricaTdeSMenezesP1.pdb
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.csprojResolveAssemblyReference.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.csproj.CoreCompileInputs.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.exe
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\A4EricaTdeSMenezesP1\A4EricaTdeSMenezesP1\obj\Debug\A4EricaTdeSMenezesP1.pdb
