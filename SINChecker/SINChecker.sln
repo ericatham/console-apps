@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINChecker", "SINChecker\SINChecker.csproj", "{24C57282-051A-49A1-8252-C1586313AEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C57282-051A-49A1-8252-C1586313AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C57282-051A-49A1-8252-C1586313AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C57282-051A-49A1-8252-C1586313AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C57282-051A-49A1-8252-C1586313AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2783C835-3209-4EAA-9570-5C8EBD5BE273}
+	EndGlobalSection
+EndGlobal

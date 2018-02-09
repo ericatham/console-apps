@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe.config
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.pdb
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\SINChecker.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\SINChecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.exe
+C:\Users\pc\Desktop\SIN Checker\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.pdb

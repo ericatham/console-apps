@@ -1,0 +1,14 @@
+G:\PROG1780\inClass\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe.config
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe.config
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.pdb
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.exe
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.pdb
+C:\Users\pc\Documents\Conestoga Assigments\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.csprojResolveAssemblyReference.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe.config
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.exe
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\bin\Debug\InClass5EricaMenezes.pdb
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.csprojResolveAssemblyReference.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.csproj.CoreCompileInputs.cache
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.exe
+D:\Arquivos Érica\Conestoga Assigments\Term 1\Programming\InClass5\InClass5EricaMenezes\InClass5EricaMenezes\obj\Debug\InClass5EricaMenezes.pdb
