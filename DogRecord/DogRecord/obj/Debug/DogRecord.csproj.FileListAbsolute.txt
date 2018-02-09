@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\DogRecord\Assign3\bin\Debug\Assign3.exe.config
+C:\Users\pc\Desktop\DogRecord\Assign3\bin\Debug\Assign3.exe
+C:\Users\pc\Desktop\DogRecord\Assign3\bin\Debug\Assign3.pdb
+C:\Users\pc\Desktop\DogRecord\Assign3\obj\Debug\DogRecord.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\DogRecord\Assign3\obj\Debug\DogRecord.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DogRecord\Assign3\obj\Debug\Assign3.exe
+C:\Users\pc\Desktop\DogRecord\Assign3\obj\Debug\Assign3.pdb
+C:\Users\pc\Desktop\DogRecord\DogRecord\bin\Debug\Assign3.exe.config
+C:\Users\pc\Desktop\DogRecord\DogRecord\bin\Debug\Assign3.exe
+C:\Users\pc\Desktop\DogRecord\DogRecord\bin\Debug\Assign3.pdb
+C:\Users\pc\Desktop\DogRecord\DogRecord\obj\Debug\DogRecord.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\DogRecord\DogRecord\obj\Debug\DogRecord.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DogRecord\DogRecord\obj\Debug\Assign3.exe
+C:\Users\pc\Desktop\DogRecord\DogRecord\obj\Debug\Assign3.pdb
